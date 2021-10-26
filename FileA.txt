@@ -1,0 +1,2 @@
+Inside of FileA.txt.
+FileA.txt changed.
